@@ -1,6 +1,7 @@
 # iabulkupload
-The tools in this folder can be used for bulk upload of Thoth publishers' back catalogues to Internet Archive via the Thoth Dissemination Service.
+The tools in this repository can be used for bulk upload of Thoth publishers' back catalogues to Internet Archive via the Thoth Dissemination Service.
 This README records the steps taken to upload the OBP and punctum back catalogues to the [Thoth Archiving Network collection](https://archive.org/details/thoth-archiving-network) on 2022-11-28/29.
+At the time of this upload, the tools were contained in a subfolder `iabulkupload` of the Thoth Dissemination Service repository `thoth-dissemination`. The wording of the steps reflects this.
 See also [the README for the Thoth Dissemination Service itself](https://github.com/thoth-pub/thoth-dissemination/blob/v0.1.0/README.md).
 
 ### Steps to upload
